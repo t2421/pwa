@@ -27,7 +27,7 @@
 2. jsを書く。（https://developer.mozilla.org/ja/docs/Web/Apps/Progressive/Add_to_home_screen）
 ​
 ## アンインストール
-1. アプリを起動して、メニューからアンインストールする
-2. ブラウザのメニューからアンインストールする
+1. アプリを起動して、メニューからアンインストールする(Windowsのみ)
+2. ブラウザのメニューからアンインストールする(Windowsのみ)
 3. chrome://apps/からアンインストールする
 ​
