@@ -11,6 +11,7 @@
 + ホーム画面にアプリとして追加できる
 + https必須
 + キャッシュするリソースが404だとserviceworkerのエラーが発生
++ LighthouseでPWAとして正しく機能が実装されているかのvalidationが可能
 ​
 ## 制限
 + iOSとAndroidでできることに差がある。
